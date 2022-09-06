@@ -30,10 +30,7 @@ I work as an HTML / CSS editor and web designer. I have studied HTML / CSS / JS 
 ********************
 
 ## Projects
-[CV#1. Markdown & Git](https://github.com/Kurbanou/rsschool-cv.git "CV#1. Markdown & Git")
-[CV#1. Portfolio](https://github.com/Kurbanou/rsschool-cv.git "CV#1. Markdown & Git")
-[CV#1. Random Jokes](https://github.com/Kurbanou/rsschool-cv.git "CV#1. Markdown & Git")
-[CV#1. Tic-tac-toe](https://github.com/Kurbanou/rsschool-cv.git "CV#1. Markdown & Git")
+[CV#1. Markdown & Git](https://Kurbanou.github.io/rsschool-cv/cv) "CV#1. Markdown & Git")
 
 ********************
 
