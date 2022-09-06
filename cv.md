@@ -16,7 +16,7 @@ I work as an HTML / CSS editor and web designer. I have studied HTML / CSS / JS 
 
 ********************
 
-## Skills
+## Skills 
 * HTML/CSS
 * Responsive/Adaptive layouts
 * Git/GitHub
