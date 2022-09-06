@@ -24,7 +24,7 @@ I work as an HTML / CSS editor and web designer. I have studied HTML / CSS / JS 
     + WordPress
 * Design programs:
     + Photoshop
-    + Illustrator
+    + Illustrator 
     + Figma 
 
 ********************
