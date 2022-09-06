@@ -25,7 +25,7 @@ I work as an HTML / CSS editor and web designer. I have studied HTML / CSS / JS 
 * Design programs:
     + Photoshop
     + Illustrator
-    + Figma
+    + Figma 
 
 ********************
 
