@@ -58,3 +58,8 @@ function solution(str){
 * Courses:
     + HTML Academy
     + The Rolling Scopes «JavaScript/Front-end»
+********************
+
+## Languages
+* Russian - native speaker
+* English - B1 (Pre-Intermediate)
