@@ -14,9 +14,9 @@
 Responsible, easy to learn, I have organizational skills. I lead a healthy lifestyle.
 I work as an HTML / CSS editor and web designer. I have studied HTML / CSS / JS beginner 
 
-********************
+******************** 
 
-## Skills 
+## Skills  
 * HTML/CSS
 * Responsive/Adaptive layouts
 * Git/GitHub
